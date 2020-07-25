@@ -130,6 +130,9 @@
     <string name="settings_enable_entry_swipe_description">If enabled, allows swiping between entries while viewing an entry.</string>
 
     <string-array name="settings_intervals">
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
         <item>5 minutes</item>
         <item>15 minutes</item>
         <item>30 minutes</item>
